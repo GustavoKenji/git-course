@@ -9,3 +9,5 @@ To começando a entender sapoha
 Ainda to aprendendo sapoha, vamo q vamo caraio
 
 Bora que bora
+
+Tem que atualiza o repositório remoto
